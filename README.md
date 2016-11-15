@@ -1,2 +1,2 @@
-# vf-895
+# vf-895n
 vodafone smart prime 6
